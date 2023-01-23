@@ -52,13 +52,13 @@
       Mace - Moving obstacle reduces 15% health
       Fire - Static obstacle reduces 15% health
       Laser - Animation obstacle reduces 20% health
-#### Collecting Powerups: Getting powerups to navigate through the levels
+#### Powerups - Collect powerups to finish the levels faster.
      Speed - Increases vertical speed
      AutoFill - Fills one letter in the word
      Health - Restores Health
      Split - Changes color with red being wrong and green being right
      Hint - Gives a clue about the word. Only three hints per word
-#### Collecting words as a powerup
+#### Power Words
      HEAL - Collecting H,E,A,L restores full health
      GO - Collecting G,O makes the obstacles invisible for some time
 
