@@ -26,7 +26,9 @@
 ### 10
 
 ## Role played by me
-### 
+### Backend Developer
+      Designed and implemented all the powerups, and movement, score, fall mechanics.
+      Designed and mentored other teammates in the implementation of obstacles, powerwords.
 
 ## Detailed Design
 ### Game Element
@@ -59,3 +61,5 @@
      HEAL - Collecting H,E,A,L restores full health
      GO - Collecting G,O makes the obstacles invisible for some time
 
+### Note
+#### I have shown all the features of the game in the link mentioned above. For source code, any queries regarding the implementation of the game and for new feature suggestions contact me at harshambh.hv@gmail.com.
