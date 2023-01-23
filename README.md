@@ -10,6 +10,52 @@
 ## General Description
 ### The user would be moving in the vertical direction using controls while there is constant movement in the horizontal direction. The game begins with the level giving an idea about what the answer is about like a fruit, country. During the game, the user can collect hints and power ups along the way that would guide him towards the answer. The user needs to collect correct letters corresponding to the answer and once he collects all the correct letters the level is completed. If the user hits an obstacle, his health reduces. If the user collects a certain number of incorrect letters he loses and the game ends.
 
-## Genre - Endless runner, Trivia, Word Game 
+## Genre
+### Endless runner, Trivia, Word Game 
 
-## Technologies Used - Unity 3D, C#, WebGL
+## Technologies Used
+### Unity 3D, C#, WebGL, Git
+
+## Youtube Link
+### https://youtu.be/B2QfEp7K4K8
+
+## Link to Game
+### https://chafale.github.io/test_wegl3/
+
+## Team size
+### 10
+
+## Role played by me
+### 
+
+## Detailed Design
+### Game Element
+1. Various letters to be captured 
+2. Obstacles to be avoided
+3. Hints to guess the word
+4. Dashes that will be filled
+5. Power ups to use
+6. Use words as a powerup - HEAL/GO
+
+
+### Game Mechanics ( How to play )
+#### Movement mechanic: Use the keyboard up/down arrow to move up/down.
+     Score mechanic: Fills the dashes when collecting the right letter
+     Fall mechanic: Hit an obstacle or capture letters that is not part of the word.
+  In Level Size we can use L and I to reduce and increase the size of the object.
+    Obstacles - Static and Dynamic obstacles are present
+      Rod - Static obstacle reducing 10 health
+      Blade - Rotating obstacle reducing 15 health
+      Mace - Moving obstacle reducing 15 health
+      Fire - Static obstacle reducing 15 health
+      Laser - Animation obstacle reducing 20 health
+Collecting Powerups: Getting powerups to navigate through the levels
+  Speed - Increases vertical speed
+  AutoFill - Fills one letter in the word
+  Health - Restores Health
+  Split - Changes color with red being wrong and green being right
+  Hint - Gives a clue about the word. Only three hints per word
+Collecting words as a powerup
+  HEAL - Collecting H,E,A,L restores full health
+  GO - Collecting G,O makes the obstacles invisible for some time
+
