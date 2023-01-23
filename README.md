@@ -4,7 +4,8 @@
 ### Flappy birds with word guessing
 
 ## Goal
-### Successfully collect all the letters pertaining to the hints on the top - Dodge obstacles along the way
+### Successfully collect all the letters pertaining to the hints on the top.
+### Dodge obstacles along the way
 ### Collect power ups and word plays along the way
 
 ## General Description
@@ -46,11 +47,11 @@
 #### Fall mechanic: Hit an obstacle or capture letters that is not part of the word.
 #### Size mechanic: Use L and I to reduce and increase the size of the object in level size
 #### Obstacles - Static and Dynamic obstacles are present
-      Rod - Static obstacle reducing 10 health
-      Blade - Rotating obstacle reducing 15 health
-      Mace - Moving obstacle reducing 15 health
-      Fire - Static obstacle reducing 15 health
-      Laser - Animation obstacle reducing 20 health
+      Rod - Static obstacle reduces 10% health
+      Blade - Rotating obstacle reduces 15% health
+      Mace - Moving obstacle reduces 15% health
+      Fire - Static obstacle reduces 15% health
+      Laser - Animation obstacle reduces 20% health
 #### Collecting Powerups: Getting powerups to navigate through the levels
      Speed - Increases vertical speed
      AutoFill - Fills one letter in the word
