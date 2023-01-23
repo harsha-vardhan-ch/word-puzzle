@@ -40,22 +40,22 @@
 
 ### Game Mechanics ( How to play )
 #### Movement mechanic: Use the keyboard up/down arrow to move up/down.
-     Score mechanic: Fills the dashes when collecting the right letter
-     Fall mechanic: Hit an obstacle or capture letters that is not part of the word.
-  In Level Size we can use L and I to reduce and increase the size of the object.
-    Obstacles - Static and Dynamic obstacles are present
+#### Score mechanic: Fills the dashes when collecting the right letter
+#### Fall mechanic: Hit an obstacle or capture letters that is not part of the word.
+#### Size mechanic: Use L and I to reduce and increase the size of the object in level size
+#### Obstacles - Static and Dynamic obstacles are present
       Rod - Static obstacle reducing 10 health
       Blade - Rotating obstacle reducing 15 health
       Mace - Moving obstacle reducing 15 health
       Fire - Static obstacle reducing 15 health
       Laser - Animation obstacle reducing 20 health
-Collecting Powerups: Getting powerups to navigate through the levels
-  Speed - Increases vertical speed
-  AutoFill - Fills one letter in the word
-  Health - Restores Health
-  Split - Changes color with red being wrong and green being right
-  Hint - Gives a clue about the word. Only three hints per word
-Collecting words as a powerup
-  HEAL - Collecting H,E,A,L restores full health
-  GO - Collecting G,O makes the obstacles invisible for some time
+#### Collecting Powerups: Getting powerups to navigate through the levels
+     Speed - Increases vertical speed
+     AutoFill - Fills one letter in the word
+     Health - Restores Health
+     Split - Changes color with red being wrong and green being right
+     Hint - Gives a clue about the word. Only three hints per word
+#### Collecting words as a powerup
+     HEAL - Collecting H,E,A,L restores full health
+     GO - Collecting G,O makes the obstacles invisible for some time
 
